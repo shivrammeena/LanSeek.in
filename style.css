@@ -146,7 +146,6 @@ footer {
 }
 
 footer a {
-    background-color: #121212;
     padding: 5px;
     text-decoration: none;
     color: #2FF3E0;
@@ -155,25 +154,13 @@ footer a {
 footer big {
     display: flex;
     justify-content: center;
-    background-color: #121212;
-    color: #2FF3E0;
-}
-
-.big-contact {
-    border-radius: 20px;
-    background-color: #121212;
 }
 
 .contact-us {
-    background-color: #121212;
     display: flex;
     justify-content: center;
     gap: 15px;
     padding: 10px 0;
-}
-
-.contact-us img {
-    background-color: #121212;
 }
 
 /* Home Page Content */
