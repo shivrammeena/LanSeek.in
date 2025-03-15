@@ -214,6 +214,7 @@ footer big {
 /* Responsive adjustments */
 @media (max-width: 1080px) {
     .navigation {
+        font-size: 1.5em;
         width: 100%;
         flex-wrap: wrap;
         justify-content: center;
@@ -221,6 +222,7 @@ footer big {
     }
     
     header {
+        border-bottom: 5px solid #2FF3E0;
         flex-direction: column;
         gap: 10px;
     }
