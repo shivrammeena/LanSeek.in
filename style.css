@@ -352,6 +352,7 @@ footer big {
 
 /* Home Page Content */
 .democontent {
+    height: 100vh;
     columns: 320px;
     margin: 100px 10px 10px 10px;
     column-gap: 15px;
